@@ -1,11 +1,11 @@
 # OptimalEats: Personalized Nutritional Planner AI
-OptimalEats is an advanced machine learning platform designed to revolutionize meal planning. By integrating personal food preferences, dietary restrictions, and nutritional goals, OptimalEats tailors healthy and delicious meal plans uniquely suited to each individual's taste and health objectives.
+OptimalEats is an advanced machine-learning platform designed to revolutionize meal planning. By integrating personal food preferences, dietary restrictions, and nutritional goals, OptimalEats tailors healthy and delicious meal plans uniquely suited to each individual's taste and health objectives.
 
 ## Features:
-- **Personalized Meal Generation:** Utilizes user's taste profiles to suggest meal plans they'll love.
+- **Personalized Meal Generation:** Utilizes users' taste profiles to suggest meal plans they'll love.
 - **Nutritional Balance:** Ensures each meal plan meets daily recommended intake guidelines.
 - **Adaptive Learning:** Improves suggestions over time based on feedback and changing preferences.
-- **Diverse Cuisine Support:** Capable of creating meal plans from a vast array of global cuisines.
+- **Diverse Cuisine Support:** Can create meal plans from various global cuisines.
 - **Integration Ready:** Designed to integrate with popular fitness and health tracking apps.
 
 ## How It Works:
@@ -17,6 +17,6 @@ OptimalEats is an advanced machine learning platform designed to revolutionize m
 
 ## Tech Stack:
 - **Language:** Python 3.8+
-- **Libraries:** TensorFlow, PyTorch, NumPy, Pandas
+- **Libraries:** TensorFlow, NumPy, Pandas
 - **APIs:** USDA FoodData Central for nutritional information
 - **Platforms:** Cross-compatible with web devices
