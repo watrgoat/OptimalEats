@@ -6,7 +6,6 @@ OptimalEats is an advanced machine-learning platform designed to revolutionize m
 - **Nutritional Balance:** Ensures each meal plan meets daily recommended intake guidelines.
 - **Adaptive Learning:** Improves suggestions over time based on feedback and changing preferences.
 - **Diverse Cuisine Support:** Can create meal plans from various global cuisines.
-- **Integration Ready:** Designed to integrate with popular fitness and health tracking apps.
 
 ## How It Works:
 - **Input Preferences:** Users input their food likes, dislikes, allergies, and dietary restrictions.
@@ -18,5 +17,5 @@ OptimalEats is an advanced machine-learning platform designed to revolutionize m
 ## Tech Stack:
 - **Language:** Python 3.8+
 - **Libraries:** TensorFlow, NumPy, Pandas
-- **APIs:** USDA FoodData Central for nutritional information
+- **APIs:** Spoonacular
 - **Platforms:** Cross-compatible with web devices
