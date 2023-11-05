@@ -1,0 +1,119 @@
+    {
+    id: "q1",
+    question: "Which cuisine do you prefer for a special occasion?",
+    choices: ["Italian", "Japanese", "French", "Indian", "Mediterranean", "Other"]
+    }
+
+    {
+    id: "q2",
+    question: "What's your favorite type of protein for a main dish?",
+    choices: ["Chicken", "Beef", "Fish/Seafood", "Vegetarian (tofu, tempeh)", "Other"]
+    }
+
+    {
+    id: "q3",
+    question: "How do you like your steak cooked?",
+    choices: ["Rare", "Medium Rare", "Medium", "Medium Well", "Well Done"]
+    }
+
+    {
+    id: "q4",
+    question: "Do you have any dietary restrictions or preferences? (Select all that apply)",
+    choices: ["Vegetarian", "Vegan", "Gluten-free", "Lactose-free", "Keto", "None"]
+    }
+
+    {
+    id: "q5",
+    question: "Which type of pasta is your favorite?",
+    choices: ["Spaghetti", "Penne", "Fettuccine", "Ravioli", "Other"]
+    }
+
+    {
+    id: "q6",
+    question: "How spicy do you like your food?",
+    choices: ["Not spicy at all", "Mild", "Medium", "Hot", "Very Hot"]
+    }
+
+    {
+    id: "q7",
+    question: "What's your go-to breakfast choice?",
+    choices: ["Cereal", "Omelette", "Yogurt and Fruit", "Pancakes/Waffles", "Other"]
+    }
+
+    {
+    id: "q8",
+    question: "Which type of cuisine do you enjoy for a quick lunch?",
+    choices: ["Sandwiches/Subs", "Salads", "Sushi", "Mexican", "Other"]
+    }
+
+    {
+    id: "q9",
+    question: "How do you like your coffee?",
+    choices: ["Black", "With cream/milk", "With sugar", "I don't drink coffee"]
+    }
+
+    {
+    id: "q10",
+    question: "Which type of dessert tempts you the most?",
+    choices: ["Chocolate cake", "Cheesecake", "Fruit tart", "Ice cream", "Other"]
+    }
+
+    {
+    id: "q11",
+    question: "What's your preferred type of cuisine for a romantic dinner date?",
+    choices: ["Italian", "Sushi", "French", "Steakhouse", "Other"]
+    }
+
+    {
+    id: "q12",
+    question: "Do you enjoy spicy foods or dishes with a mild flavor profile?",
+    choices: ["I love spicy foods", "I prefer mild flavors", "I enjoy both"]
+    }
+
+    {
+    id: "q13",
+    question: "When it comes to snacks, do you lean towards sweet or savory options?",
+    choices: ["I prefer sweet snacks", "I prefer savory snacks", "I like both equally"]
+    }
+
+    {
+    id: "q14",
+    question: "What's your favorite type of pizza?",
+    choices: ["Margherita", "Pepperoni", "Hawaiian", "Vegetarian", "Other"]
+    }
+
+    {
+    id: "q15",
+    question: "Do you enjoy trying new and exotic dishes from different cultures?",
+    choices: ["Yes, I love exploring new flavors", "I prefer sticking to what I know", "Occasionally"]
+    }
+
+    {
+    id: "q16",
+    question: "How do you feel about seafood?",
+    choices: ["Love it, I'm a seafood enthusiast", "I enjoy it occasionally", "Not a fan of seafood"]
+    }
+
+    {
+    id: "q17",
+    question: "What's your preferred type of bread for sandwiches?",
+    choices: ["White bread", "Whole wheat", "Baguette", "Wrap/tortilla", "Other"]
+    }
+
+    {
+    id: "q18",
+    question: "Which type of cheese is your favorite?",
+    choices: ["Cheddar", "Mozzarella", "Brie", "Goat cheese", "Other"]
+    }
+
+    {
+    id: "q19",
+    question: "How do you like your eggs prepared?",
+    choices: ["Scrambled", "Fried", "Poached", "Boiled", "Other"]
+    }
+
+    {
+    id: "q20",
+    question: "What's your preferred hot beverage?",
+    choices: ["Tea", "Coffee", "Hot chocolate", "Herbal tea", "I don't drink hot beverages"]
+    }
