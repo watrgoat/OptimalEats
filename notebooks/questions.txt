@@ -1,0 +1,8 @@
+question: "What are your dietary reqestrictions? (Select all the apply)"
+choices: ["vegetarian", "vegan", "glutenFree", "dairyFree"]
+
+question: "Which cuisines interst you? (Select all that apply)",
+choices: ["Greek", "Middle Eastern", "Asian", "Italian", "American", "Mediterranean", "Cajun", "English", "British", "Mexican", "Irish", "Chinese", "Southern", "European", "Scottish", "French", "Creole"]
+
+question: "How much time is the max to spend cooking? (minutes)",
+choices: integer
